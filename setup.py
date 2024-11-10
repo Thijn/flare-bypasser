@@ -24,7 +24,7 @@ setup(
     'opencv-python',
     'certifi==2023.7.22',
     'requests',  # nodriver require it
-    'nodriver @ git+https://github.com/yoori/nodriver.git',
+    'nodriver @ git+https://github.com/Thijn/nodriver.git',
     # < fork with cookie fix, switch to https://github.com/ultrafunkamsterdam/nodriver.git after MR
     'argparse',
     'oslex',
